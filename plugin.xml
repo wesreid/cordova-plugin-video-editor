@@ -7,8 +7,8 @@
     <license>Apache 2.0</license>
 
 
-	<js-module name="VideoEditorPlugin" src="www/VideoEditorPlugin.js">
-		<clobbers target="cordova.VideoEditorPlugin" />
+	<js-module name="VideoEditorPlugin" src="www/VideoEditor.js">
+		<clobbers target="cordova.VideoEditor" />
 	</js-module>
 
     <js-module name="VideoEditorConstants" src="www/VideoEditorConstants.js">
